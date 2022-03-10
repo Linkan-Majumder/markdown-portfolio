@@ -1,5 +1,3 @@
-_Actually I am learning __Android__ framwork with the help of __Java__ programming language_,
+_I am learning the Android framework with the help of the Java programming language,_
 
-_Currently I am working on a project by solely myself, so i came across many difficulties which i think can be ratified by knowing real world problem and solution, so i am very much enthusiastic to learn new things by which i can add value in real life problems._
-
- 
+_Currently, I am working on a project by solely myself, so I came across many difficulties which I think can be ratified by knowing real-world problems and solutions, so I am very much enthusiastic to learn new things by which I can add value to real-life problems._
